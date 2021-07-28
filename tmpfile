@@ -1,0 +1,2 @@
+TMPFILE=$(mktemp ./XXXXXXXX)
+echo 'aws_access_key_id=AKIAZD4787KAIKLPZY77' > $TMPFILE
